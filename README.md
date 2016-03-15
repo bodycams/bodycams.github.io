@@ -12,7 +12,7 @@ Our goal is to build a verified, crowdsourced database of law enforcement agenci
 
 ##How you can help
 
-Know about a body camera program missing from our list? Have updated information to add? Fill out our easy form here so we can add it to the list.
+Know about a body camera program missing from our list? Have updated information to add? Fill out our easy form [here](https://docs.google.com/forms/d/1ueQh9TvYsaNlumyrgYJ3iGzQQCuCyKWavhh4a2QC9nM/viewform) so we can add it to the list.
 
 If you're interested in the project but don't have information to add, help us out by sharing the project on Facebook or Twitter.
 
