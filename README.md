@@ -18,4 +18,4 @@ If you're interested in the project but don't have information to add, help us o
 
 Want to get more involved? We're looking for journalists, researchers and other interested people to help coordinate data from individual states. Please [contact us](https://docs.google.com/forms/d/12Po4_AUOzvIoPlrczAQv1dOHXMNbQ5Er5SMccnj0nIk/viewform) and let us know how you can help.
 
-This project was created and maintained by Rachel Alexander and Steven Rich.
+This project was created and maintained by [Rachel Alexander](https://twitter.com/rachelwalexande) and [Steven Rich](https://twitter.com/dataeditor).
